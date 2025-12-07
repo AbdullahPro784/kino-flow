@@ -12,7 +12,7 @@ Built with the latest web technologies, it features real-time data synchronizati
 
 ## 🚀 Live Demo
 
-**[Click here to launch Kino Flow](https://kino-flow.vercel.app)**
+**[Click here to launch Kino Flow]([https://kino-flow.vercel.app](https://vercel.com/abdullahpros-projects/kino-flow))**
 *(Note: If the link is not active yet, the project is currently in early access).*
 
 ## ✨ Key Features
